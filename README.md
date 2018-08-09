@@ -17,6 +17,17 @@ BreedSystems is a lite version of Bitcoin using scrypt as a proof-of-work algori
 - target timespan	12960 minutes
 - transaction confirmations	3 blocks
 - 195 coins per block
+- Algorithm	Scrypt
+- Type	PoW
+- Coin name	BreedSystems
+- Coin abbreviation	BRE
+- Address letter	B
+- RPC port	40376
+- P2P port	40375
+- Block reward	195 coins
+- Block halving	4000000 blocks
+- Coin supply	1560000000 coins
+- Premine amount	187200000 coins
 
 The rest is the same as Bitcoin.
   
