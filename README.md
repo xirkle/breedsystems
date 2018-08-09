@@ -4,7 +4,7 @@ BreedSystems integration/staging tree
 http://breed.systems
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 BreedSystems Developers
+Copyright (c) 2018 BreedSystems Developers
 
 What is BreedSystems?
 ----------------
