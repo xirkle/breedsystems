@@ -1,7 +1,7 @@
 BreedSystems integration/staging tree
 ================================
 
-http://www.breedsystems.org
+http://breed.systems
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 BreedSystems Developers
@@ -10,16 +10,18 @@ What is BreedSystems?
 ----------------
 
 BreedSystems is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+- subsidy halves in 4,000,000 blocks
+- 1,560,000,000 billion total coins
+- coinbase maturity	21 blocks
+- target spacing	720 minutes
+- target timespan	12960 minutes
+- transaction confirmations	3 blocks
+- 195 coins per block
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
+  
 For more information, as well as an immediately useable, binary version of
-the BreedSystems client sofware, see http://www.breedsystems.org.
+the BreedSystems client sofware, see http://breed.systems
 
 License
 -------
