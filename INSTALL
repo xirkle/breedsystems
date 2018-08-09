@@ -1,0 +1,9 @@
+Building BreedSystems
+
+See doc/readme-qt.rst for instructions on building BreedSystems-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BreedSystems.
+
+See doc/build-*.txt for instructions on building breedsystemsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BreedSystems.
