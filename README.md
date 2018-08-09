@@ -10,10 +10,10 @@ What is BreedSystems?
 ----------------
 
 BreedSystems is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
-- Coinbase maturity	21 blocks
-- Target spacing	720 minutes
-- Target timespan	12960 minutes
-- Transaction confirmations	3 blocks
+- Coinbase maturity:	21 blocks
+- Target spacing:	720 minutes
+- Target timespan:	12960 minutes
+- Transaction confirmations:	3 blocks
 - Algorithm: Scrypt
 - Type: POW
 - Coin name:	BreedSystems
