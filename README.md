@@ -4,8 +4,11 @@ BreedSystems is a Scrypt POW (proof of work) blockchain, which supports a QT Win
 Here are the specifications for the Breed Systems coin.
 
 Algorithm: Scrypt
+
 Type: PoW
+
 Coin name: BreedSystems
+
 Coin abbreviation:	BRE
 Address letter:	B
 RPC port:	40376
