@@ -3,8 +3,8 @@ BreedSystems integration/staging tree
 
 https://breed.systems
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2018 BreedSystems Developers
+© 2009-2014 Bitcoin Developers
+© 2018 BreedSystems Developers
 
 What is BreedSystems?
 ----------------
