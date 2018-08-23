@@ -1,7 +1,7 @@
 BreedSystems integration/staging tree
 ================================
 
-http://breed.systems
+https://breed.systems
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018 BreedSystems Developers
@@ -29,7 +29,7 @@ BreedSystems is a lite version of Bitcoin using scrypt as a proof-of-work algori
 The rest is the same as Bitcoin.
   
 For more information, as well as an immediately useable, binary version of
-the BreedSystems client sofware, see http://breed.systems
+the BreedSystems client sofware, see https://breed.systems
 
 License
 -------
